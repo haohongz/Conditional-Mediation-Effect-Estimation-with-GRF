@@ -1,6 +1,6 @@
 # Topic 4: Multiple Treatment Mediation Analysis
 
-> 多分类处理变量下的中介分析 | 提出者: 吴思涵 | 难度 ★★☆
+> 多分类处理变量下的中介分析 | 难度 ★★☆
 
 ## 目录
 
