@@ -1,6 +1,6 @@
 # Topic 5: Conditional Mediation Effect Estimation with GRF
 
-> 基于广义随机森林的条件中介效应估计 | 提出者: 吴思涵 | 难度 ★☆☆
+> 基于广义随机森林的条件中介效应估计 | 难度 ★☆☆
 
 ## 目录
 
