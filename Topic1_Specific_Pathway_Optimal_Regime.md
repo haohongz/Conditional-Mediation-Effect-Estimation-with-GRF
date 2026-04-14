@@ -209,8 +209,8 @@ Discussion: 局限性和扩展方向
 
 ### 预期产出
 
-吴思涵说这个题目"套了强化学习的皮, 可能更容易发". 预期可以投NeurIPS/ICML的Causal Inference workshop, 或者统计方向的期刊如JASA, Biometrika.
+这个题目"套了强化学习的皮, 可能更容易发". 预期可以投NeurIPS/ICML的Causal Inference workshop, 或者统计方向的期刊如JASA, Biometrika.
 
 ### 前置条件
 
-必须先到浙大线下看那篇审稿中的论文, 才能真正开始推导. 建议5月初去一趟.
+必须先线下看那篇审稿中的论文, 才能真正开始推导.
