@@ -174,7 +174,7 @@ graph TB
 - Dukes Section 5: 在non-proximal框架下做了multi-treatment的中介分析 (完整)
 - 在proximal框架下的multi-treatment中介分析: 没有人做
 
-吴思涵在meeting中明确说了: 这个gap存在, 而且创新点虽然不大, 但确实没有人填.
+meeting中明确说了: 这个gap存在, 而且创新点虽然不大, 但确实没有人填.
 
 ### 为什么创新点不大
 
@@ -246,4 +246,4 @@ Discussion: 推广到连续treatment的可能性
 
 题目5做的是CATE(把ATE局部化到个体), 题目4做的是多分类treatment. 如果两个都做了, 自然的下一步是: 在proximal框架下, 对多分类treatment估计条件中介效应. 这可以写到Discussion的Future Work里.
 
-> 吴思涵说这个题目"比较好做也相对好发", 但也提醒"创新点比较小". 适合作为第二篇论文, 在题目5之后开始.
+> 这个题目"比较好做也相对好发", 但也提醒"创新点比较小". 适合作为第二篇论文, 在题目5之后开始.
