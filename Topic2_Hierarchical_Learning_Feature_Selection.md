@@ -293,4 +293,4 @@ Experiments: 模拟 + 可能的真实数据
 Discussion: 与proximal框架结合的可能性
 ```
 
-> 注意: 有一篇核心论文(Sparse Neural Networks via Auxiliary Responses)正在审稿中, 需要到浙大后线下阅读. 这篇论文是本题目的直接前驱工作.
+> 注意: 有一篇核心论文(Sparse Neural Networks via Auxiliary Responses)正在审稿中, 需要到线下阅读. 这篇论文是本题目的直接前驱工作.
