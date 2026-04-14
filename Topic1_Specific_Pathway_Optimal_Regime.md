@@ -1,6 +1,6 @@
 # Topic 1: Specific Pathway Optimal Regime
 
-> 路径特定最优治疗策略 | 提出者: 郭源善 | 难度 ★★☆
+> 路径特定最优治疗策略 | 难度 ★★☆
 
 ## 目录
 
