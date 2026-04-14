@@ -1,6 +1,6 @@
 # Topic 2: Hierarchical Learning and Feature Selection for Conditional Counterfactual Mean Estimation
 
-> 层次学习与特征选择用于条件反事实均值估计 | 提出者: 郭源善 | 难度 ★★★
+> 层次学习与特征选择用于条件反事实均值估计 | 难度 ★★★
 
 ## 目录
 
