@@ -25,7 +25,7 @@
 graph LR
     A["Dukes 2023<br/>Proximal Mediation<br/>→ ATE估计"] 
     B["Athey & Wager 2019<br/>GRF<br/>→ 局部化工具"]
-    C["你的工作<br/>Proximal Mediation + GRF<br/>→ CATE估计"]
+    C["现在工作<br/>Proximal Mediation + GRF<br/>→ CATE估计"]
     
     A --> C
     B --> C
